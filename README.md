@@ -1,1 +1,1 @@
-"# clickCounter" 
+クリックカウンターをjavaxのSwingを用いて作るだけのrepositoryです。。。 
